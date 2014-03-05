@@ -4,6 +4,7 @@
 .idea/
 *.iml
 *.iws
+out/
 
 # maven
 log/
