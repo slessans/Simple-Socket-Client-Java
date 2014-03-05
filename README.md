@@ -1,4 +1,4 @@
-simple-tcp-messenger-java
+A Simple Socket Client in Java
 =========================
 
-A simple tcp messenger
+Self explanatory -- pretty modular architecture. Hopefully soon I'll have time to write some docs.
